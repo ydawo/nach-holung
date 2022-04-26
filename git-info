@@ -1,0 +1,19 @@
+Wichtige Befehle für die Navigation
+------------------------------------------------------------------
+pwd
+Zeigt das aktuelle Verzeichnis an, in dem wir uns befinden.
+Ls
+Zeigt den Inhalt des aktuellen Verzeichnisses an.
+ls irgendein/pfad
+Zeigt den Inhalt des angegebenen Verzeichnisses an.
+ls -l
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf.
+ls -a
+Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+ls -lh
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf und formatiert die Dateigrößen in ein besser lesbares Format.
+cd
+Wechselt in das Home-Verzeichnis, wenn kein Pfad angegeben wird.
+cd /irgendein/pfad
+Wechselt in das angegebene Verzeichnis. Das / am Anfang bedeutet, dass wir im Hauptverzeichnis beginnen.
+Geben wir das / nicht am Anfang an, wechsel
